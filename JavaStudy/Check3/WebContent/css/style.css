@@ -1,0 +1,31 @@
+header div {
+	background-color: gray;
+}
+
+header div label{
+	display: inline-block;
+	padding: 10px;
+	color: white;
+}
+
+header div label span {
+	font-size: 10px;
+	padding: 10px;
+	color: black;
+}
+
+table{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+footer div {
+	background-color: gray;
+}
+
+footer div label{
+	display: inline-block;
+	padding: 10px;
+	color: white;
+}
+
