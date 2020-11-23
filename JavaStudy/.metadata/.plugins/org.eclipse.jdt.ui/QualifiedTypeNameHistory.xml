@@ -4,4 +4,5 @@
     <fullyQualifiedTypeName name="study.Calculator"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.sun.java.util.jar.pack.ConstantPool.Entry"/>
+    <fullyQualifiedTypeName name="java.util.Objects"/>
 </qualifiedTypeNameHistroy>
